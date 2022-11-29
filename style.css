@@ -4,8 +4,11 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body{
+        background-color: #323232;
+}
 .container{
-    background-color: #323232;
+
     min-width: min-content;
     min-height: 100vh;
     color: white;
@@ -145,5 +148,7 @@ th,td{
     table td, tr th ,button{
      font-size: small !important;
     }
-   
+      .head{
+        width: 100%;
+    }
 }
