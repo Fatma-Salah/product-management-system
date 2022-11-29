@@ -140,6 +140,7 @@ th,td{
     .Price,.ads,.discount{display: none;}
     .head{
         width: 100%;
+        padding:20px 5px;
     }
 }
 
