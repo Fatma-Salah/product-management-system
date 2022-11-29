@@ -197,16 +197,3 @@ function tbody(index) {
     `;
   
 }
-
-// function mediaQueryFunction(x) {
-//     if (x.matches) { // If media query matches
-//         document.querySelector('.pric').style.display = "none";
-//     } else{
-        
-//         document.querySelector('.pric').style.display = "block";
-//     }
-//   }
-  
-//   var x = window.matchMedia("(max-width: 800px)")
-//   mediaQueryFunction(x) // Call listener function at run time
-//   x.addListener(mediaQueryFunction);
